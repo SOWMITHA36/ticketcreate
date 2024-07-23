@@ -44,7 +44,7 @@ exports = {
     console.log("Prepared Ticket Data:", ticketData);
     
     let freshdeskDomain = "effy-opinyin"; 
-    let freshdeskApiKey = "iNcI4WtlCHjWU9sAfE"; 
+    let freshdeskApiKey = "iNcI4u7t5654e43546rfvvbfE"; 
 
     
     let options = {
